@@ -16,11 +16,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonCLICK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CLICK"
-        android:onClick="onbottonCLICK"
+        android:onClick="onbuttonCLICK"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="285dp" />
